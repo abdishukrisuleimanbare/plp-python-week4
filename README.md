@@ -7,3 +7,12 @@ This repository contains my Week 3 Python assignment on conditions and loops.
 * `screenshots/` — Contains screenshots showing both programs running successfully.
 
 The hardest bug to find was the loop condition because the program could run without producing an error message, but it stopped before adding the number 5. I knew something was wrong because the program produced an incorrect answer instead of the expected result of 15.
+
+## Week 4 Assignment: Hands-On Lab - Grades, Eligibility & Smart Decisions
+
+This section contains my Week 4 Python assignment on functions, parameters, return values, and default arguments.
+
+- `welcome.py` — Defines a reusable welcome function and calls it with three different names.
+- `toolbox.py` — Defines and tests the `double()`, `is_pass()`, and `greet()` functions.
+
+The hardest function for me to write was `greet()` because it uses a default parameter while allowing a different greeting to be provided. I understood it by testing the function both with and without a custom greeting.
